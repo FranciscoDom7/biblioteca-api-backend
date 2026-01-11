@@ -21,4 +21,6 @@
 5. Inicie o servidor: `python manage.py runserver`.
 6. Acesse a API em: `http://127.0.0.1:8000/api/`.
 
-**Estudante:** [Seu Nome Completo]
+**Estudante:** Chiquito Samanjata Francisco Cacuata
+**Ano:** Quarto ano
+**Curso** Informatica.
