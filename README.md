@@ -1,6 +1,6 @@
 # Sistema de Gestão de Biblioteca API
 
-**Tema:** Sistema para controle de acervo bibliográfico, categorias, autores e empréstimos.
+**Tema:** Sistema de controle bibliográfico.
 
 ## Tecnologias Utilizadas
 - **Backend:** Python 3, Django REST Framework.
